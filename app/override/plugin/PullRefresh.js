@@ -1,4 +1,1 @@
-Ext.define('app.override.plugin.PullRefresh', {
-    override: 'Ext.plugin.PullRefresh'
-    
-});
+function _82b07701447004ecbe7eb29dbff1e9b8efa33f7c(){};Ext.define("app.override.plugin.PullRefresh",{override:"Ext.plugin.PullRefresh"});
